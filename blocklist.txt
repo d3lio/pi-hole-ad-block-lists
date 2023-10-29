@@ -17,6 +17,7 @@
 0.0.0.0 adserver.bg
 0.0.0.0 adsy.mail.bg
 0.0.0.0 adsys.insert.bg
+0.0.0.0 advertere.zamunda.net
 0.0.0.0 adwise.bg
 0.0.0.0 affiliates.palmsbet.com
 0.0.0.0 agronovinite.com
