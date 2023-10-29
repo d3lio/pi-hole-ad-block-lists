@@ -156,6 +156,7 @@
 0.0.0.0 xlrm-tech.com
 0.0.0.0 yambolsport.net
 0.0.0.0 zamunda.net
+0.0.0.0 zamunda2.freeunibg.eu
 0.0.0.0 zara-live.com
 0.0.0.0 zdrave.net
 0.0.0.0 zegrumse.net
